@@ -1,3 +1,15 @@
+## 2025-08-26
+
+- **Activities**: so much linux command line, troubleshooting an install of makemkv
+- **Notes**:  
+- **Tools**: 
+
+## 2025-08-25
+
+- **Activities**: a lot of linux command line
+- **Notes**: 
+- **Tools**: 
+
 
 ## 2025-08-23
 
